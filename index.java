@@ -12,7 +12,5 @@ public class index {
         int resultado = (horas*60*60) + (minutos*60) + segundos;
         System.out.println("Resultado em Segundos: "+resultado);
 
-
-
     }
 }
